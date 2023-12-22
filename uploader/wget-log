@@ -1,0 +1,11 @@
+--2023-12-22 16:47:34--  https://cdn.discordapp.com/attachments/716070356116570212/1187798228960297190/client_secret_435314749549-11ifk3un6m76eqhj2ki71eig91v0sauf.apps.googleusercontent.com.json?ex=6598324e
+Resolving cdn.discordapp.com (cdn.discordapp.com)... 162.159.129.233, 162.159.135.233, 162.159.134.233, ...
+Connecting to cdn.discordapp.com (cdn.discordapp.com)|162.159.129.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 557 [application/json]
+Saving to: ‘client_secret_435314749549-11ifk3un6m76eqhj2ki71eig91v0sauf.apps.googleusercontent.com.json?ex=6598324e’
+
+          client_se   0%[                    ]       0  --.-KB/s               client_secret_43531 100%[===================>]     557  --.-KB/s    in 0s      
+
+2023-12-22 16:47:34 (536 MB/s) - ‘client_secret_435314749549-11ifk3un6m76eqhj2ki71eig91v0sauf.apps.googleusercontent.com.json?ex=6598324e’ saved [557/557]
+
